@@ -1,0 +1,51 @@
+[
+  {
+    "id": "single",
+    "name": "单张指引",
+    "subtitle": "静下心来，只问一件事",
+    "count": 1,
+    "positions": [
+      { "label": "此刻的指引", "meaning": "这件事当下最需要你看清的核心" }
+    ]
+  },
+  {
+    "id": "three",
+    "name": "时间三牌",
+    "subtitle": "过去 · 现在 · 未来",
+    "count": 3,
+    "positions": [
+      { "label": "过去", "meaning": "已发生的事如何塑造了现在的局面" },
+      { "label": "现在", "meaning": "你此刻真实所处的位置与状态" },
+      { "label": "未来", "meaning": "若保持当前方向，事情将如何展开" }
+    ]
+  },
+  {
+    "id": "crossroads",
+    "name": "十字路口",
+    "subtitle": "现状 · 阻碍 · 建议",
+    "count": 3,
+    "positions": [
+      { "label": "现状", "meaning": "事情目前的真实样貌" },
+      { "label": "阻碍", "meaning": "真正卡住你的东西，未必是表面那一个" },
+      { "label": "建议", "meaning": "你现在可以采取的行动" }
+    ]
+  },
+  {
+    "id": "celtic",
+    "name": "凯尔特十字",
+    "subtitle": "十张牌，一次完整的窥探",
+    "count": 10,
+    "positions": [
+      { "label": "现状", "meaning": "问题的核心与当下处境" },
+      { "label": "阻碍", "meaning": "横在面前的力量，或你尚未看见的阻力" },
+      { "label": "根基", "meaning": "潜意识与事件的深层根源" },
+      { "label": "过去", "meaning": "正在离开的影响" },
+      { "label": "目标", "meaning": "意识层面的追求与可达之处" },
+      { "label": "未来", "meaning": "近期将出现的发展" },
+      { "label": "自我", "meaning": "你在这件事中的姿态与态度" },
+      { "label": "环境", "meaning": "他人与外部条件的影响" },
+      { "label": "希望与恐惧", "meaning": "你内心最深的期待与担忧" },
+      { "label": "结果", "meaning": "当前路径指向的结局" }
+    ]
+  }
+]
